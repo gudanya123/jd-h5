@@ -3,7 +3,7 @@
 
 - 扫码查看
 	
-	<img alt="logo" src="https://github.com/gudanya123/jd-h5/example.png" width="100" max-width="100%">
+	<img alt="logo" src="https://github.com/gudanya123/jd-h5/blob/master/example.png" width="100" max-width="100%">
 	
 	
 - 使用原生js实现轮播
